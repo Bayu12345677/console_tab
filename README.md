@@ -19,3 +19,5 @@ done
 # (-n / -N) = Nchars => berfungsi untuk mengatur ketikan / pencetan jika nchars satu maka batas satu ketikan adalah 1 jika ketikan sudah memenuhi value yg kita buat maka input akan langsung mengirimkan output
 ```
 
+### me akun social
+- [![j](https://img.shields.io/static/v1?style=plastic&logo=github&label=Me&message=github&color=green)](https://github.com/Bayu12345677)
