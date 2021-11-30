@@ -21,3 +21,4 @@ done
 
 ### me akun social
 - [![j](https://img.shields.io/static/v1?style=plastic&logo=github&label=Me&message=github&color=green)](https://github.com/Bayu12345677)
+- [![j](https://img.shields.io/static/v1?style=plastic&logo=youtube&label=Me&message=youtube&color=green
