@@ -20,7 +20,7 @@ done
 ```
 
 ```dart
-apt install nms
+apt install no-more-secrets
 apt install setterm
 ```
 
