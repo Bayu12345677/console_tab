@@ -6,7 +6,7 @@
 [![ui](https://img.shields.io/badge/Program-Bash-blue)](https://cointer.polygon3.repl.co/send/jangan%20lupa%20subrek%20pejuang%20kentang)
 
 ini adalah sebuah read tap maksud nya `gimana ?`
-console.tap ini berfungsi untuk menjadikan input sebagai output jadi jika kita mencet huruf q maka `output akan mengirimkan apa yg kita pencet tadi
+console.tap ini berfungsi untuk menjadikan input sebagai output jadi jika kita mencet huruf q maka `output` akan mengirimkan apa yg kita pencet tadi
 
 gunakan while atau until sebagai loop input
 
